@@ -1,0 +1,37 @@
+.contain{
+    border-radius: 5px;
+    background-color: #079992;
+    color: #fff;
+   
+}
+.city{
+   line-height: 100px;
+   font-size: 40px;
+   text-align: center;
+}
+.info{
+    display: flex;
+    padding: 25px;
+}
+.info1{
+    width: 70%;
+    margin-left: 20px;
+}
+.img img{
+    width: 200px;
+}
+.location i{
+    margin-right: 20px;
+}
+.location{
+    margin: 15px auto;
+}
+.temp{
+    line-height: 80px;
+}
+.des{
+    margin-bottom: 10px;
+}
+.vv{
+    margin: 5px auto;
+}

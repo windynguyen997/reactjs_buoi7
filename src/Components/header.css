@@ -1,0 +1,27 @@
+.header{
+    padding: 15px;
+    background-color: #00d2d3;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+
+}
+.header input{
+    padding: 10px 10px;
+    width: 85%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    
+}
+.header button{
+    padding: 10px 10px;
+    margin-left: 5px;
+    border: none;
+    background: #01a3a4;
+    border-radius: 5px;
+}
+.header i{
+    font-size: 15px;
+    color: #fff;
+}
